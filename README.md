@@ -1,4 +1,4 @@
-# 💅 Nail & Finger Stimulus Point Tool
+# Nail Fold Region Stimulus Point Tool
 
 A lightweight web-based tool that calculates and visualizes precise stimulus points on a nail and finger using canvas-based guidelines.
 
